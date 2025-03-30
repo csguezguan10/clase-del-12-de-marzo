@@ -141,7 +141,3 @@ _Ahora vamos a agregar un video del funcionamiento._
 📹 **[Ver Video](https://youtu.be/DjXFY_ks1yc)** _(enlace al video de la simulación)_
 
 ---
-
-## Recursos Adicionales
-Si necesitas más información, consulta la documentación oficial de MathWorks:
-🔗 [Documentación Simscape Multibody](https://www.mathworks.com/help/physmod/sm/)
