@@ -25,7 +25,7 @@ Se aplica en robótica, automoción, biomecánica, aeroespacial y más. Para obt
 3. Abre el **Library Browser** (Explorador de Bibliotecas) en la barra de herramientas.
 4. Navega hasta **Simscape > Multibody** para acceder a los bloques necesarios.
 
-![Imagen 1](Nuevacarpeta/imagen1.png)
+![Imagen 1](imagenes/imagen1.png)
 
 ---
 
