@@ -1,9 +1,10 @@
 # clase-del-12-de-marzo
 
+Simscape Multibody es una herramienta de Simulink utilizada para modelar y simular sistemas mecánicos en 3D que permite analizar el comportamiento dinámico de mecanismos con cuerpos rígidos, articulaciones y fuerzas aplicadas, facilitando el diseño y optimización de sistemas mecánicos sin necesidad de formular ecuaciones manualmente.
 ## Introducción
 
 Simscape Multibody es una herramienta de Simulink utilizada para modelar y simular sistemas mecánicos en 3D que permite analizar el comportamiento dinámico de mecanismos con cuerpos rígidos, articulaciones y fuerzas aplicadas, facilitando el diseño y optimización de sistemas mecánicos sin necesidad de formular ecuaciones manualmente.
----
+
 ### Sus principales características incluyen:
 1. Modelado basado en bloques para representar componentes físicos.
 2. Simulación dinámica con efectos como fricción y gravedad.
