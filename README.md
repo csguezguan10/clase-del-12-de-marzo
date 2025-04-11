@@ -1,6 +1,10 @@
 # clase-del-12-de-marzo
+## Integrantes 
+Carlos Stiven Guezguan         Codigo 96039                           
+Juan Jose Martinez             Codigo 105353
 
 Simscape Multibody es una herramienta de Simulink utilizada para modelar y simular sistemas mecánicos en 3D que permite analizar el comportamiento dinámico de mecanismos con cuerpos rígidos, articulaciones y fuerzas aplicadas, facilitando el diseño y optimización de sistemas mecánicos sin necesidad de formular ecuaciones manualmente.
+
 ## Introducción
 
 Simscape Multibody es una herramienta de Simulink utilizada para modelar y simular sistemas mecánicos en 3D que permite analizar el comportamiento dinámico de mecanismos con cuerpos rígidos, articulaciones y fuerzas aplicadas, facilitando el diseño y optimización de sistemas mecánicos sin necesidad de formular ecuaciones manualmente.
@@ -136,7 +140,47 @@ Se ha abierto la ventana de configuración del bloque Rigid Transform, donde se 
 
 ![Imagen 12](imagenes/imagen12.png)
 
+## Ejemplo 1
+
+Ahora vamos a presentar un ejemplo. El ejemplo 1 muestra la representación de un mecanismo tipo yugo escocés.
+
+En el modelo se utilizan bloques esenciales de Simscape Multibody como:
+
+También se incorporan transformaciones rígidas, uniones (como la revoluta y la prismática), y sólidos que representan las partes físicas del mecanismo. Se usa un Simulink-PS Converter para introducir señales desde Simulink, y un PS-Simulink Converter con un Scope para observar la salida del sistema.
+
+Este montaje permite simular el comportamiento cinemático del yugo escocés, observando cómo se transforma el movimiento rotacional en movimiento lineal.
+
+![Imagen 14](imagenese/imagen14.png)
+
+El pin slot Joint permite movimiento lineal (traslacional) entre dos cuerpos rígidos, a lo largo de un eje este sive para:
+
+Modelar cilindros hidráulicos o neumáticos.
+
+Sistemas de tipo riel-carro.
+
+Robots cartesianos o sistemas con desplazamiento lineal.
+
+![Imagen 16](imagenese/imagen16.png)
+
+## Ejemplo 2
+
+![Imagen 19](imagenese/imagen19.png)
+
+En esta simulación se representa un péndulo simple, donde un eslabón rígido gira alrededor de un punto fijo (la base). 
+Este modelo permite observar cómo la masa del eslabón reacciona al torque gravitacional, generando un movimiento oscilatorio característico del péndulo.
+
+## Ejemplo 3
+
+Este ejemplo muestra cómo construir un sistema mecánico en Simscape Multibody utilizando varias uniones conectadas a diferentes frames de los sólidos. .
+
+![Imagen 21](imagenese/imagen21.png)
+
+Este diseño es útil para modelar mecanismos complejos que requieren conexiones en distintos puntos de los cuerpos rígidos, como brazos robóticos o estructuras articuladas.
+
+![Imagen 23](imagenese/imagen23.png)
+
 ### Video del Funcionamiento
+
 _Ahora vamos a agregar un video del funcionamiento._
 
 📹 **[Ver Video](https://youtu.be/DjXFY_ks1yc)** _(enlace al video de la simulación)_
