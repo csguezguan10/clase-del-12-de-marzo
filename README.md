@@ -190,3 +190,8 @@ _Ahora vamos a agregar un video del funcionamiento._
 📹 **[Ver Video](https://youtu.be/sl-_U9OuA5w)** _(enlace al video de la simulación ejemplo 2)_
 
 ---
+## Concluciones 
+
+Simscape Multibody es una herramienta de Simulink que permite simular sistemas mecánicos de forma visual, usando bloques que representan piezas físicas como engranajes, brazos, uniones, etc. Esto facilita mucho el trabajo porque no necesitas escribir ecuaciones complicadas: solo conectas los bloques como si armaras el sistema real. Además, puedes ver el movimiento en 3D, lo que ayuda a entender cómo se comporta el mecanismo y a detectar errores en el diseño.
+
+Lo más interesante es que se puede combinar con otros bloques de Simulink, como los de control o señales, lo que permite probar todo el sistema completo: desde la parte mecánica hasta la electrónica de control. Por eso, Simscape Multibody es muy útil tanto para aprender como para diseñar sistemas reales en áreas como robótica, vehículos, o maquinaria industrial.
