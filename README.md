@@ -141,4 +141,8 @@ _Ahora vamos a agregar un video del funcionamiento._
 
 📹 **[Ver Video](https://youtu.be/DjXFY_ks1yc)** _(enlace al video de la simulación)_
 
+📹 **[Ver Video](https://youtu.be/5aja3Dv3NNQ)** _(enlace al video de la simulación ejemplo 1)_
+
+📹 **[Ver Video](https://youtu.be/sl-_U9OuA5w)** _(enlace al video de la simulación ejemplo 2)_
+
 ---
